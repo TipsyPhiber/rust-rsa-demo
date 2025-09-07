@@ -49,7 +49,6 @@ fn main() {
     println!("Using primes p={} and q={}", p, q);
     println!("Public Key: (e={}, n={})", e, n);
     println!("Private Key: (d={}, n={})", d, n);
-    println!("--> Security relies on the fact that factoring n={} is hard.", n);
     
     // --- INTERACTIVE ENCRYPTION / DECRYPTION ---
     println!("\n[ ENCRYPTION / DECRYPTION CYCLE ]");
