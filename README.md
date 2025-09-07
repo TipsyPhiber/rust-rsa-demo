@@ -1,5 +1,4 @@
 # rust-rsa-demo
-Author: Bruce Mikel
 This is a simple command-line program written in Rust to demonstrate the core concepts of the RSA encryption and decryption algorithm. It is intended for educational purposes to make the theoretical mathematics of RSA tangible and interactive.
 
 The program generates a fixed public/private key pair, prompts the user to enter a number, encrypts it, and then decrypts it back to the original number, showing the intermediate steps.
